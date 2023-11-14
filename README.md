@@ -54,6 +54,3 @@ Feel free to reach out for collaborations or questions:
 ## 📄 License
 Comply copy right please! :)
 
----
-
-This project stands as a testament to the power of machine learning in material science, offering new perspectives in glass classification. We hope it inspires further exploration and innovation in this fascinating field. Happy exploring!
